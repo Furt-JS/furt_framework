@@ -6,21 +6,21 @@ FurtJS is a powerfull JavaScript framework for building user interfaces in front
 * **Component-Based:** Build encapsulated components that manage their own state, then compose them to make complex UIs. Since component logic is written in JavaScript instead of templates, you can easily pass rich data through your app and keep state out of the DOM.
 * **Learn Once, Write Anywhere:** We don't make assumptions about the rest of your technology stack, so you can develop new features in FurtJS without rewriting existing code. FurtJS can also render on the server using Node and power mobile apps using [React Native](https://reactnative.dev/).
 
-[Learn how to use React in your own project](https://reactjs.org/docs/getting-started.html).
+[Learn how to use FurtJS in your own project](https://furt-js.org/docs/getting-started.html).
 
 ## ⬇️ Installation
 
-React has been designed for gradual adoption from the start, and **you can use as little or as much React as you need**:
+FurtJS has been designed for gradual adoption from the start, and **you can use as little or as much FurtJS as you need**:
 
-* Use [Online Playgrounds](https://reactjs.org/docs/getting-started.html#online-playgrounds) to get a taste of React.
-* [Add React to a Website](https://reactjs.org/docs/add-react-to-a-website.html) as a `<script>` tag in one minute.
-* [Create a New React App](https://reactjs.org/docs/create-a-new-react-app.html) if you're looking for a powerful JavaScript toolchain.
+* Use [Online Playgrounds](https://furt-js.org/docs/getting-started.html#online-playgrounds) to get a taste of React.
+* [Add React to a Website](https://furt-js.org/docs/add-react-to-a-website.html) as a `<script>` tag in one minute.
+* [Create a New React App](https://furt-js.org/docs/create-a-new-react-app.html) if you're looking for a powerful JavaScript toolchain.
 
-You can use React as a `<script>` tag from a [CDN](https://reactjs.org/docs/cdn-links.html), or as a `react` package on [npm](https://www.npmjs.com/package/react).
+You can use FurtJS as a `<script>` tag from a [CDN](https://furt-js.org/docs/cdn-links.html), or as a `furt` package on [npm](https://www.npmjs.com/package/react).
 
 ## 📚 Documentation
 
-You can find the React documentation [on the website](https://reactjs.org/docs).  
+You can find the FurtJS documentation [on the website](https://reactjs.org/docs).  
 
 Check out the [Getting Started](https://reactjs.org/docs/getting-started.html) page for a quick overview.
 
