@@ -1,10 +1,10 @@
-# [React](https://reactjs.org/) &middot; [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/facebook/react/blob/main/LICENSE) [![npm version](https://img.shields.io/npm/v/react.svg?style=flat)](https://www.npmjs.com/package/react) [![CircleCI Status](https://circleci.com/gh/facebook/react.svg?style=shield&circle-token=:circle-token)](https://circleci.com/gh/facebook/react) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://reactjs.org/docs/how-to-contribute.html#your-first-pull-request)
+# [Furt JS](https://furt-js.org/) &middot; [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/facebook/react/blob/main/LICENSE) [![npm version](https://img.shields.io/npm/v/react.svg?style=flat)](https://www.npmjs.com/package/react) [![CircleCI Status](https://circleci.com/gh/facebook/react.svg?style=shield&circle-token=:circle-token)](https://circleci.com/gh/facebook/react) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://reactjs.org/docs/how-to-contribute.html#your-first-pull-request)
 
-React is a JavaScript library for building user interfaces.
+FurtJS is a powerfull JavaScript framework for building user interfaces in frontend.
 
-* **Declarative:** React makes it painless to create interactive UIs. Design simple views for each state in your application, and React will efficiently update and render just the right components when your data changes. Declarative views make your code more predictable, simpler to understand, and easier to debug.
+* **Declarative:** FurtJS makes it painless to create interactive UIs. Design simple views for each state in your application, and FurtJS will efficiently update and render just the right components when your data changes. Declarative views make your code more predictable, simpler to understand, and easier to debug.
 * **Component-Based:** Build encapsulated components that manage their own state, then compose them to make complex UIs. Since component logic is written in JavaScript instead of templates, you can easily pass rich data through your app and keep state out of the DOM.
-* **Learn Once, Write Anywhere:** We don't make assumptions about the rest of your technology stack, so you can develop new features in React without rewriting existing code. React can also render on the server using Node and power mobile apps using [React Native](https://reactnative.dev/).
+* **Learn Once, Write Anywhere:** We don't make assumptions about the rest of your technology stack, so you can develop new features in FurtJS without rewriting existing code. FurtJS can also render on the server using Node and power mobile apps using [React Native](https://reactnative.dev/).
 
 [Learn how to use React in your own project](https://reactjs.org/docs/getting-started.html).
 
@@ -26,7 +26,7 @@ Check out the [Getting Started](https://reactjs.org/docs/getting-started.html) p
 
 The documentation is divided into several sections:
 
-* [Tutorial](https://reactjs.org/tutorial/tutorial.html)
+* [Tutorial](https://furt-js.org/tutorial/tutorial.html)
 * [Main Concepts](https://reactjs.org/docs/hello-world.html)
 * [Advanced Guides](https://reactjs.org/docs/jsx-in-depth.html)
 * [API Reference](https://reactjs.org/docs/react-api.html)
