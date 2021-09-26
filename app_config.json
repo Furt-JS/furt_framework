@@ -1,0 +1,5 @@
+{
+    "port": "3000",
+    "machine": "127.0.0.1",
+    "supportMultiThreading": true
+}
