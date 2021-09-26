@@ -39,11 +39,15 @@ You can improve it by sending pull requests to [this repository](https://github.
 
 We have several examples [on the website](https://reactjs.org/). Here is the first one to get you started:
 
+example.mod.furt
 ```jsx
 function TestModule() {
   return <div>Hello, whats up?</div>;
 }
+```
 
+app.mod.furt
+```jsx
 ScreenDOM.render() {
     <TestModule />
 }
